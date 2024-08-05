@@ -22,7 +22,7 @@ A web application for a food store built using the MERN (MongoDB, Express.js, Re
 - MongoDB
 
 ### Installation
-- git clone https://github.com/yourusername/food-store.git
+- git clone https://github.com/Paresh-ch-Pothal/Food-Store
 - cd food-store
 
 ## Install dependencies for the frontend:
